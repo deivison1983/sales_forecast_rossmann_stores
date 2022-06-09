@@ -197,7 +197,7 @@ As métricas utilizadas para avaliar a performances dos modelos foram:
 * MAPE - Mean Absolut Percentage Error (Erro absoluto médio percentual)
 * RMSE - Root Mean Squared Error (Raiz do erro quadrático médio )
 
-O processo de validação cruzada do nosso problema de negócio deve respeita o aspecto temporal das vendas das lojas com o decorrer do tempo. Sendo assim, foi empregada a técnica de time series cross validation e o dataset foi dividido em 5 folds. Convém mencionar que o período temporal estabelecido para o intervalo de validação foi de seis semanas.
+O processo de validação cruzada do nosso problema de negócio deve respeitar o aspecto temporal das vendas das lojas com o decorrer do tempo. Sendo assim, foi empregada a técnica de time series cross validation e o dataset foi dividido em 5 folds. Convém mencionar que o período temporal estabelecido para o intervalo de validação foi de seis semanas.
 
 
 <p> <img src="images_read/time_cross_validation.png"> </p>
