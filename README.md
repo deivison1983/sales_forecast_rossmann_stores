@@ -167,7 +167,7 @@ A hipótese em questão assim como a hipótese 4 demonstrou ser falsa.
 
 <p> <img src="images_read/h8.png"> </p>
 
-Após a EDA verificou-se que as vendas no período de feriado escolar foi bastante significativa nos meses de julho e agosto quando comparado com as vendas em dias normais. Entretanto convém mencionar que que as vendas em volume nesses meses são menores.
+Após a EDA verificou-se que as vendas no período de feriado escolar foram bastante significativas nos meses de julho e agosto quando comparado com as vendas em dias normais. Entretanto, convém mencionar que as vendas em volume nesses meses são menores.
 
 ***Variável "customers"***
 
