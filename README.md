@@ -3,7 +3,7 @@
 
 ## O projeto Rossmann <p id="projeto-rossmann"></p>
 
-Este projeto fictício que compõe o meu portfolio profissional busca criar uma solução de negocio que auxiliará o CEO da empresa Rossmann, uma das maiores redes de drogarias existentes na europa, a definir quais lojas da rede ele deve reformar em função da receita de faturamento da drogaria no curto prazo.
+Este projeto fictício que compõe o meu portfolio profissional busca criar uma solução de negócio que auxiliará o CEO da empresa Rossmann, uma das maiores redes de drogarias existentes na europa, a definir quais lojas da rede ele deve reformar em função da receita de faturamento da drogaria no curto prazo.
 
 O projeto está estruturado nos seguintes passos:
 
