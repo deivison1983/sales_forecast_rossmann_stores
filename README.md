@@ -231,7 +231,8 @@ Um importante papel que o cientista de dados deve exercer é traduzir a performa
 
 Ressalta-se que cada loja possui uma performance distinta com relação a performance geral do modelo.
 
-Observações referente a Loja 1:
+**Observações referente a Loja 1:**
+
 * A previsão de vendas relativa as seis semanas corresponde a $168.687,34.
 
 * O MAE da loja que foi acumulado durante as seis semanas corresponde a $ 11.574,96.
@@ -241,6 +242,17 @@ Observações referente a Loja 1:
 * O melhor cenário de previsão do faturamento consiste na soma das previsões diárias ***mais*** a soma dos MAE da loja relativos as seis semanas, o que totaliza $180.262,30.
 
 * O mape da loja é igual a 7,2 % o que corresponde a uma diferença de - 4,3 % comparado com o mape geral do modelo.
+
+
+**A performance total de negócio considerando todas as lojas é igual aos seguintes cenários:**
+
+<p> <img src="images_read/business_performance_total.png"> </p>
+
+* A previsão de vendas relativa as seis semanas corresponde a $286.435.616,00
+
+* No pior cenário, temos a previsão de vendas relativa as seis semanas **menos** a soma de todos MAE's das lojas, que resulta em $254.768.674,07
+
+* No melhor cenário, verifica-se a previsão de vendas relativas as seis semanas **mais** a soma de todos os MAE's das lojas, que resulta no montante de $318.102.537,21
 
 ### 5.4 Machine Learning Performance
 
