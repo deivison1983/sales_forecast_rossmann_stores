@@ -2,7 +2,7 @@
 <img src="images_read/loja_Rossmann_2.jpg">
 
 
-# <p>🇧🇷 [Portuguese Version](https://github.com/deivison1983/sales_forecast_rossmann_stores)</p>
+# <p>🇧🇷 [Versão em Português](https://github.com/deivison1983/sales_forecast_rossmann_stores)</p>
 
 ## The Rossmann project <p id="projeto-rossmann"></p>
 
