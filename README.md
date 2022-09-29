@@ -1,6 +1,8 @@
 # PROJETO PREVISÃO DE VENDAS ROSSMANN
 <img src="images_read/loja_Rossmann_2.jpg">
 
+# <p>🇺🇸 [English Version](https://github.com/deivison1983/sales_forecast_rossmann_stores/blob/main/english_version/readme_rossmann_eng.md)</p>
+
 ## O projeto Rossmann <p id="projeto-rossmann"></p>
 
 Este projeto fictício que compõe o meu portfolio profissional busca criar uma solução de negócio que auxiliará o CEO da empresa Rossmann, uma das maiores redes de drogarias existentes na europa, a definir quais lojas da rede ele deve reformar em função da receita de faturamento da drogaria no curto prazo.
