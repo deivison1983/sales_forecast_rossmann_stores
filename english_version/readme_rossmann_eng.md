@@ -6,7 +6,7 @@
 
 ## The Rossmann project <p id="projeto-rossmann"></p>
 
-This fictitious project that composes my professional portfolio seeks to create a business solution that will help the CEO of Rossmann, one of the largest drugstore chains in Europe, to define which stores in the chain he should renovate depending on the drugstore's revenue in the short term.
+This project that composes my professional portfolio seeks to create a business solution that will help the CEO of Rossmann, one of the largest drugstore chains in Europe, to define which stores in the chain he should renovate depending on the drugstore's revenue in the short term.
 
 The project is structured in the following steps:
 
